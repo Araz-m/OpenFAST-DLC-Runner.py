@@ -1,7 +1,7 @@
 # OpenFAST-DLC-sampler-Automator
  This project facilitates the execution and management of OpenFAST simulations by   dynamically updating input files, running simulations, and organizing outputs for Design Load Cases.
 
-*Originally developed during the [Optimus 295-20 wind turbine project](https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20) at Flensburg University of Applied Sciences.
+Originally developed during the [Optimus 295-20 wind turbine project](https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20) at Flensburg University of Applied Sciences.
 --------------------------------------------------------------------------------
 # Features
 
