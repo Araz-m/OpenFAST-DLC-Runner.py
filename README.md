@@ -66,5 +66,8 @@ cd OpenFast_Automating-DLC-Simulations_Optimus_295_20_Hochschule-Flensburg
 5. Open a pull request.
 --------------------------------------------------------------------------------
 
-A detailed *pdf manual* will be added as a guide
+A detailed *pdf manual* added as a guide
 --------------------------------------------------------------------------
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
